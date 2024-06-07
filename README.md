@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-jagdev&" alt="sujal-jagdev" /></p>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif](https://raw.githubusercontent.com/sammorozov/sammorozov/5d10794d0b5d2912940dc6544522b0a0ec0eef72/assets/github-snake.svg)">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sammorozov/sammorozov/5d10794d0b5d2912940dc6544522b0a0ec0eef72/assets/github-snake.svg">
