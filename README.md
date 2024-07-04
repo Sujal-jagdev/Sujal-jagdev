@@ -15,7 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sujal jagdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal jagdev" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/23591777/sujal-jagdev?tab=profile" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLpoCFtDfOsMIE0OfgEQedMOZ6OlpssE9JA&s)" alt="sujal jagdev" height="30" width="40" /></a>
+  
+  <a href="https://stackoverflow.com/users/23591777/sujal-jagdev?tab=profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="sujal jagdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
