@@ -24,7 +24,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sujal jagdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sujal jagdev" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-jagdev&show_icons=true&locale=en&layout=compact" alt="sujal-jagdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-jagdev&show_icons=true&locale=en&layout=compact" alt="sujal-jagdev" /></p><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sujal-jagdev&show_icons=true&locale=en" alt="sujal-jagdev" /></p>
 
