@@ -29,5 +29,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal-jagdev&show_icons=true&locale=en" alt="sujal-jagdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-jagdev&" alt="sujal-jagdev" height="210"/></p><br>
-
-<img align="center" alt="Coding" width="150000" src="https://raw.githubusercontent.com/sammorozov/sammorozov/5d10794d0b5d2912940dc6544522b0a0ec0eef72/assets/github-snake.svg">
