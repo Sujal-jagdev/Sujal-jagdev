@@ -14,11 +14,10 @@
 
 ### 🌟 About Me
 
-- 🌱 Currently mastering **MERN Stack Development**
-- 💡 Passionate about building responsive and scalable web applications
-- 📫 Reach me at **rg2844537@gmail.com**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-
+- ✅ **Completed** MERN Stack Certification
+- 👨💻 Currently working as **Software Engineering Intern**
+- 🌱 Exploring **Advanced Backend Architectures & Microservices**
+- 📫 Reach me at **sujal.devspace@gmail.com**
 ---
 
 ### 🤝 Connect With Me
