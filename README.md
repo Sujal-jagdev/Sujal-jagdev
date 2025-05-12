@@ -1,29 +1,108 @@
-[![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)]
-<h1 align="center">Hi 👋, I'm Sujal Jagdev</h1>
-<h3 align="center">"Sujal Jagdev | Crafting Seamless Digital Solutions from Frontend to Backend"</h3>
+[![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)](https://github.com/sujal-jagdev)
+
+<h1 align="center">👋 Hello, I'm Sujal Jagdev</h1>
+<h3 align="center">🚀 Full Stack Developer | Crafting Seamless Digital Experiences</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal-jagdev&label=Profile%20views&color=0e75b6&style=flat" alt="sujal-jagdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **FullStack Devlopment**
-
-- 📫 How to reach me **rg2844537@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sujal jagdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal jagdev" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/23591777/sujal-jagdev?tab=profile" target="blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="sujal jagdev" height="50" width="50" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sujal-jagdev&label=Profile%20views&color=0e75b6&style=flat" alt="sujal-jagdev" /> 
+  <img src="https://img.shields.io/github/followers/sujal-jagdev?label=Follow&style=social" alt="GitHub followers">
 </p>
 
-<h3 align="left">Languages and Tools:</h3> 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> lll </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Sujal jagdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sujal jagdev" /></a></p><br><br><br>
+### 🌟 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-jagdev&show_icons=true&locale=en&layout=compact" alt="sujal-jagdev" height="210"/>
+- 🌱 Currently mastering **MERN Stack Development**
+- 💡 Passionate about building responsive and scalable web applications
+- 📫 Reach me at **rg2844537@gmail.com**
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal-jagdev&show_icons=true&locale=en" alt="sujal-jagdev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-jagdev&" alt="sujal-jagdev" height="210"/></p><br> 
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sujal-jagdev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal-jagdev" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/23591777/sujal-jagdev" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="30" width="30" />
+  </a>
+  <a href="https://github.com/sujal-jagdev" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+
+#### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal-jagdev&show_icons=true&theme=vue-dark&bg_color=0d1117&title_color=4CAF50&text_color=ffffff&icon_color=4CAF50&count_private=true&include_all_commits=true" alt="sujal-jagdev" width="48%"/>
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-jagdev&theme=vue-dark&background=0d1117&ring=4CAF50&fire=4CAF50&currStreakNum=ffffff&currStreakLabel=4CAF50" alt="sujal-jagdev" width="48%"/>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujal-jagdev&theme=vue-dark&bg_color=0d1117&title_color=4CAF50&text_color=ffffff&layout=compact&langs_count=8" alt="sujal-jagdev" width="48%"/>
+  
+  <!-- Dynamic Contribution Graph -->
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-jagdev&theme=github-compact&bg_color=0d1117&color=4CAF50&line=4CAF50&point=ffffff&area=true&hide_border=true&custom_title=Sujal's%20Contribution%20Graph" width="48%"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujal-jagdev&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15" alt="sujal-jagdev" />
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/SujalJagdev">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SujalJagdev"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=60&section=footer"/>
+</p>
